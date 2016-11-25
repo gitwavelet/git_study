@@ -2,4 +2,4 @@ readme master
 readme branch 1
 readme branch 1-1
 readme branch 1-2
-readme branch conflict.master
+readme branch conflict.master.ex2
